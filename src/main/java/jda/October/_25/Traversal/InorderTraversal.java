@@ -26,6 +26,5 @@ public class InorderTraversal {
         collect(root.right);
 
     }
-}
 
 }

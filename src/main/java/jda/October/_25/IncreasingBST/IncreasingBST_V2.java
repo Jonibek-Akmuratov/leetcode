@@ -23,7 +23,7 @@ public class IncreasingBST_V2 {
             temp.right = treeNode;
             temp = treeNode;
         }
-
+        return result;
     }
 
     public void collectElementsInorder(TreeNode node) {
